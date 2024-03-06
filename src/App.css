@@ -1,0 +1,23 @@
+.shopping-cart {
+  min-width: 450px;
+  right: 0;
+}
+.cart-image {
+  width: 100px;
+}
+.checkout_cart {
+  flex: 1;
+}
+
+.btn-fav {
+  margin-left: auto;
+  margin-right: 1rem;
+
+}
+
+@media screen and (max-width: 480px) {
+  .shopping-cart {
+    min-width: 300px;
+    right: -20px !important;
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "laptops": [
+    {
+      "_id": 1,
+      "brand": "Apple",
+      "model": "MacBook Air",
+      "processor": "Intel Core i5",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "price": 999.99,
+      "image": "./images/image1.webp",
+      "short": "The MacBook Air is ultra-thin and light, with a stunning Retina display, Touch ID, the latest-generation keyboard, and a Force Touch trackpad. The iconic wedge is created from 100 percent recycled aluminum.",
+      "id": "43ae"
+    },
+    {
+      "_id": 2,
+      "brand": "Dell",
+      "model": "XPS 13",
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "price": 1299.99,
+      "image": "./images/image2.webp",
+      "short": "The Dell XPS 13 combines stunning resolution and vibrant color in a slim, space-saving design. Its InfinityEdge display maximizes screen space, and the carbon-fiber palm rest adds durability without adding weight.",
+      "id": "1ce4"
+    },
+    {
+      "_id": 3,
+      "brand": "Lenovo",
+      "model": "ThinkPad X1 Carbon",
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "price": 1599.99,
+      "image": "./images/image3.webp",
+      "short": "The Lenovo ThinkPad X1 Carbon is an ultralight business laptop packed with power. It features a stunning display, long battery life, and robust security features, making it ideal for professionals on the go.",
+      "id": "9303"
+    },
+    {
+      "_id": 4,
+      "brand": "HP",
+      "model": "Spectre x360",
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "price": 1399.99,
+      "image": "./images/image4.webp",
+      "short": "The HP Spectre x360 is a versatile convertible laptop with a sleek design and powerful performance. It features a 360-degree hinge, allowing you to use it in laptop, tablet, tent, or stand mode.",
+      "id": "decc"
+    },
+    {
+      "_id": 5,
+      "brand": "Microsoft",
+      "model": "Surface Laptop 4",
+      "processor": "AMD Ryzen 7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "price": 1599.99,
+      "image": "./images/image5.webp",
+      "short": "The Microsoft Surface Laptop 4 offers exceptional performance and style. With its sleek design, vibrant PixelSense display, and all-day battery life, it's perfect for work or entertainment.",
+      "id": "314f"
+    },
+    {
+      "_id": 6,
+      "brand": "Asus",
+      "model": "ZenBook 14",
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "price": 1299.99,
+      "image": "./images/image6.webp",
+      "short": "The Asus ZenBook 14 is a compact and lightweight laptop with a stunning NanoEdge display. It offers powerful performance, long battery life, and a sleek design, making it perfect for productivity on the go.",
+      "id": "67d7"
+    },
+    {
+      "_id": 7,
+      "brand": "Acer",
+      "model": "Swift 5",
+      "processor": "Intel Core i5",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "price": 899.99,
+      "image": "./images/image7.webp",
+      "short": "The Acer Swift 5 is an ultra-lightweight laptop with a sleek design and powerful performance. It features a durable magnesium alloy chassis, a vibrant display, and long battery life, making it ideal for travel.",
+      "id": "1db0"
+    },
+    {
+      "_id": 8,
+      "brand": "Razer",
+      "model": "Blade 15",
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "price": 2499.99,
+      "image": "./images/image8.webp",
+      "short": "The Razer Blade 15 is a high-performance gaming laptop with a sleek design and stunning display. It features powerful hardware, customizable RGB lighting, and advanced cooling technology for smooth gameplay.",
+      "id": "361d"
+    },
+    {
+      "_id": 9,
+      "brand": "MSI",
+      "model": "GS66 Stealth",
+      "processor": "Intel Core i9",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "price": 2899.99,
+      "image": "./images/image9.webp",
+      "short": "The MSI GS66 Stealth is a powerful gaming laptop with a sleek design and impressive performance. It features a high-refresh-rate display, customizable RGB lighting, and advanced cooling for intense gaming sessions.",
+      "id": "8501"
+    },
+    {
+      "_id": 10,
+      "brand": "Samsung",
+      "model": "Galaxy Book Pro 360",
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "price": 1799.99,
+      "image": "./images/image10.webp",
+      "short": "The Samsung Galaxy Book Pro 360 is a premium 2-in-1 laptop with a sleek design and versatile functionality. It features a vibrant AMOLED display, S Pen support, and long battery life, making it perfect for creativity and productivity.",
+      "id": "68ad"
+    }
+  ],
+  "userdata": [
+    {
+      "id": "924b",
+      "name": "a",
+      "email": "b@c.com",
+      "password": "1",
+      "confirmPassword": "1"
+    }
+  ]
+}
